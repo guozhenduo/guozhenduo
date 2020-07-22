@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 * matics-dist(This is the compression package for matics repository)
 * interesting-c(You can see it.It's a bit interesting.)
 
-My email is guozhenduo1@163.com.If you find bug in my repository,please tell me it.
+My email is guozhenduo1@163.com. If you find bug in my repository,please tell me it.
