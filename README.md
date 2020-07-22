@@ -24,7 +24,8 @@ My email is guozhenduo1@163.com. If you find bug in my repository,please tell me
 
 I like 
 ![My like language]
-(http://github.com/guozhenduo/guozhenduo/pylogo.jpg)
+
+
 
 and I like 
 [![My like editor](http://guozhenduo/guozhenduo/micro.jpg)]
