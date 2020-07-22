@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 * interesting-c(You can see it.It's a bit interesting.)
 
 My email is guozhenduo1@163.com. If you find bug in my repository,please tell me it.
+
+I like 
+![My like language](http://guozhenduo/guozhenduo/pylogo.jpg)
+and I like 
+![My like editor](http://guozhenduo/guozhenduo/micro.jpg)
