@@ -28,4 +28,4 @@ I like
 
 
 and I like 
-![My like editor](https://guozhenduo/guozhenduo/micro.jpg)
+![My like editor](https://github.com/guozhenduo/guozhenduo/micro.jpg)
