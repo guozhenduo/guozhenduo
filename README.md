@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 My email is guozhenduo1@163.com. If you find bug in my repository,please tell me it.
 
 I like 
-![My like language](https://github.com/guozhenduo/guozhenduo/pylogo.jpg)
+![My like language](https://github.com/guozhenduo/guozhenduo/raw/master/pylogo.jpg)
 
 
 
