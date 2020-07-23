@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=guozhenduo&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![my stats](https://github-readme-stats.vercel.app/api?username=guozhenduo&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 # My good repositorys 
 * matics(This is the repository I'm most satisfied with.)
 * matics-dist(This is the compression package for matics repository)
