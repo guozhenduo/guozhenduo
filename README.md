@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![my stats](https://github-readme-stats.vercel.app/api?username=guozhenduo&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=guozhenduo&theme=yellow-green)](https://github.com/anuraghazra/github-readme-stats)
 # My good repositorys 
 * matics(This is the repository I'm most satisfied with.)
 * matics-dist(This is the compression package for matics repository)
